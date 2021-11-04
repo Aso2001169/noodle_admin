@@ -1,6 +1,8 @@
 header{
   display: flex;
   width: 98vw;
+  border-bottom: 3px solid #aaabab;
+  padding: 10px;
 }
 .header-L{
   width: 20%;
