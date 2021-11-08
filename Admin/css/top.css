@@ -55,6 +55,14 @@ main{
   width: 100%;
   margin-top: 40px;
 }
+.marchandise-table a{
+  padding: 5px;
+}
+.marchandise-table a:hover{
+  background-color: rgb(223, 218, 211);
+  opacity: 0.6;
+  transition: background-color 0.5s
+}
 .marchandise-flg,.marchandise-table-u,.marchandise-d{
   width: 8%;
 }
