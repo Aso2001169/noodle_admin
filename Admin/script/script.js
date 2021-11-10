@@ -14,10 +14,6 @@ new Vue({
         {
           label:'売上管理',
           path:'Earnings/index.html'
-        },
-        {
-          label:'商品・在庫検索',
-          path:'merchandise/contact.html'
         }
       ]
     };
